@@ -41,6 +41,11 @@
       "domain_files": ["epicgames.txt"]
     },
     {
+      "name": "gog",
+      "description": "CDN for GoG",
+      "domain_files": ["gog.txt"]
+    },
+    {
       "name": "frontier",
       "description": "CDN for Frontier Games",
       "domain_files": ["frontier.txt"]
